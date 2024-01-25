@@ -1,1 +1,1 @@
-# goit-node-cli
+# goit-node-hw1
